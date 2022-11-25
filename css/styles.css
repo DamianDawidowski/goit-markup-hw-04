@@ -355,3 +355,7 @@ ul {
 .icon-address {
   padding-right: 0.625rem;
 }
+
+.div-icon {
+  display: flex;
+}
