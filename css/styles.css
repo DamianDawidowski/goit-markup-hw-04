@@ -358,7 +358,8 @@ ul {
 
 .icon-address:hover,
 .icon-address:focus {
-  fill: var(--color-blue);
+  fill svar(--color-blue);
+  background: var(--color-blue);
 }
 
 .div-icon {
