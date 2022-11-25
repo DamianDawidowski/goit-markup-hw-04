@@ -86,7 +86,7 @@ ul {
 }
 
 .effsolutions-div {
- background-image: linear-gradient(#2F303A66, #2F303A66), url(../images/background/background.jpg);
+  background-image: linear-gradient(#2f303a66, #2f303a66), url(../images/background/background.jpg);
   max-width: 100rem;
   margin: 0 auto;
 }
@@ -353,5 +353,5 @@ ul {
 }
 
 .icon-address {
-  width: 0.75rem, height:1rem, padding-right: 0.625rem; 
+  padding-right: 0.625rem;
 }
