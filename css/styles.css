@@ -297,7 +297,7 @@ ul {
 }
 
 .header-phone {
-  padding-left: 3.125rem;
+  padding-left: 1.875rem;
 }
 
 .buttons {
@@ -353,9 +353,15 @@ ul {
 }
 
 .icon-address {
-  padding-right: 0.625rem;
+  padding-right 0.625rem;
 }
 
 .div-icon {
   display: flex;
+  align-items: center
+
+}
+
+.address-icon {
+  padding-left: 0.625rem;
 }
