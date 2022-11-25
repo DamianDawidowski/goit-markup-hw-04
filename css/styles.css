@@ -346,6 +346,7 @@ ul {
 .address-grey:focus,
 .address-grey:hover {
   color: var(--color-blue);
+  fill: var(--color-blue);
 }
 
 .portfolio-img {
