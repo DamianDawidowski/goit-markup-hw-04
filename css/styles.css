@@ -351,3 +351,7 @@ ul {
 .portfolio-img {
   margin-bottom: -4px;
 }
+
+.icon-address {
+  width: 0.75rem, height:1rem, padding-right: 0.625rem; 
+}
