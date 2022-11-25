@@ -346,7 +346,6 @@ ul {
 .address-grey:focus,
 .address-grey:hover {
   color: var(--color-blue);
-  fill: var(--color-blue);
 }
 
 .portfolio-img {
@@ -354,13 +353,17 @@ ul {
 }
 
 .icon-address {
-  padding-right 0.625rem;
+  /*padding-right 0.625rem;*/
+}
+
+.icon-address:hover,
+.icon-address:focus {
+  fill: var(--color-blue);
 }
 
 .div-icon {
   display: flex;
-  align-items: center
-
+  align-items: center;
 }
 
 .address-icon {
