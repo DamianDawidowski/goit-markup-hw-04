@@ -297,6 +297,7 @@ ul {
 .ourteam-div5 {
   padding: 0.75rem;
   max-height: 2.75rem;
+  color: var(--color-grey4);
 }
 
 .ourteam-div5:hover,
