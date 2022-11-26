@@ -292,14 +292,19 @@ ul {
 .ourteam-div4:focus {
   background-color: #2196f3;
   border-radius: 50%;
-  fill: var(--color-white);
-  color: var(--color-white);
+
 }
 
 .ourteam-div5 {
   padding: 0.75rem;
   max-height: 2.75rem;
 }
+
+.ourteam-div5:hover,
+.ourteam-div5:focus {
+  fill: var(--color-white);
+  color: var(--color-white);
+
 
 .ourteam-icon {
   fill: currentColor;
