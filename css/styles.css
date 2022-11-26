@@ -293,6 +293,7 @@ ul {
   background-color: #2196f3;
   border-radius: 50%;
   fill: var(--color-white);
+  color: var(--color-white)
 }
 
 .ourteam-div5 {
@@ -307,7 +308,8 @@ ul {
 
 .ourteam-icon:hover,
 .ourteam-icon:focus {
-  fill: var(--color-white);
+  /*fill: var(--color-white);*/
+  fill: currentColor;
 }
 
 .navigation {
