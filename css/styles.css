@@ -292,7 +292,6 @@ ul {
 .ourteam-div4:focus {
   background-color: #2196f3;
   border-radius: 50%;
-
 }
 
 .ourteam-div5 {
@@ -304,7 +303,7 @@ ul {
 .ourteam-div5:focus {
   fill: var(--color-white);
   color: var(--color-white);
-
+}
 
 .ourteam-icon {
   fill: currentColor;
