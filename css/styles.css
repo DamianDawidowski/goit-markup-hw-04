@@ -307,8 +307,7 @@ ul {
 }
 
 .ourteam-icon {
- /* fill: currentColor;*/
- fill: var(--color-grey4); 
+  fill: var(--color-grey4);
 }
 
 .ourteam-icon:hover,
