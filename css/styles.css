@@ -395,6 +395,9 @@ ul {
   align-items: center;
 }
 
+.ourclients-div {
+  display: flex;
+}
 
 .footer-div {
   padding: 3.75rem 0;
