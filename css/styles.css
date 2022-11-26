@@ -277,8 +277,7 @@ ul {
   font-size: 1rem;
   color: var(--color-grey2);
   line-height: 1.19;
-  /*padding: 0 0 1.875rem 0;*/
-}
+ }
 
 .outeam-div3 {
   display: flex;
