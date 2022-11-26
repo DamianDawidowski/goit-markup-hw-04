@@ -277,14 +277,13 @@ ul {
   font-size: 1rem;
   color: var(--color-grey2);
   line-height: 1.14;
- }
+}
 
 .footer-p {
   font-size: 0.875rem;
   font-weight: 700;
   line-height: 1.19;
 }
-
 
 .outeam-div3 {
   display: flex;
