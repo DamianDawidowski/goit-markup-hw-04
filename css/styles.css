@@ -127,6 +127,7 @@ ul {
 }
 
 .placeholder-hgroup {
+  padding-top: 1.875rem;
   width: 16.875rem;
   letter-spacing: 0.03em;
 }
@@ -371,4 +372,9 @@ ul {
 
 .address-icon {
   padding-left: 0.625rem;
+}
+
+.placeholder-icon {
+  padding: 1.5625rem 6.25rem;
+  background-color: var(--color-white2);
 }
