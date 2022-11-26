@@ -419,6 +419,7 @@ ul {
 
 .address-icon {
   padding-left: 0.625rem;
+  color: currentColor;
 }
 
 .placeholder-icon {
