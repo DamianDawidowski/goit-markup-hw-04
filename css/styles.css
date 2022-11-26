@@ -126,6 +126,10 @@ ul {
   height: 6.3125rem;
 }
 
+.placeholder-div2 {
+  min-height: 27.4375rem;
+}
+
 .placeholder-hgroup {
   padding-top: 1.875rem;
   width: 16.875rem;
