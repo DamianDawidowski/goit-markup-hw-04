@@ -2,6 +2,7 @@
   --color-grey1: #eeeeee;
   --color-grey2: #757575;
   --color-grey3: #2f303a;
+  --color-grey4: #afb1b8;
   --color-blue: #2196f3;
   --color-black: #212121;
   --color-black2: #0000001f;
@@ -291,11 +292,13 @@ ul {
 .ourteam-div4:focus {
   background-color: #2196f3;
   border-radius: 50%;
+  fill: var(--color-white);
 }
 
 .ourteam-div5 {
   padding: 0.75rem;
   max-height: 2.75rem;
+  fill: var(--color-grey4);
 }
 
 .navigation {
