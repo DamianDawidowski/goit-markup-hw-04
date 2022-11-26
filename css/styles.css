@@ -396,6 +396,7 @@ ul {
 
 .icon-address {
   fill: currentColor;
+  color: inherit;
 }
 
 .icon-address:hover,
@@ -409,6 +410,7 @@ ul {
 .div-icon {
   display: flex;
   align-items: center;
+  color: var(--color-grey2);
   fill: var(--color-grey2);
 }
 
@@ -419,6 +421,10 @@ ul {
 
 .address-icon {
   padding-left: 0.625rem;
+  color: inherit;
+}
+
+.address-icon:hover, .address-icon:focus {
   color: currentColor;
 }
 
