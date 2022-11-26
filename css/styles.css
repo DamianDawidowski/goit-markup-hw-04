@@ -283,10 +283,19 @@ ul {
   padding: 1rem 2rem 1.125rem;
 }
 
-.ourteam-icon:hover,
-.ourteam-icon:focus {
+.ourteam-div4 {
+  /*max-height: 2.75rem;*/
+}
+
+.ourteam-div4:hover,
+.ourteam-div4:focus {
   background-color: #2196f3;
   border-radius: 50%;
+}
+
+.ourteam-div5 {
+  padding: 0.75rem;
+  max-height: 2.75rem;
 }
 
 .navigation {
