@@ -352,9 +352,9 @@ ul {
   margin-bottom: -4px;
 }
 
-/*.icon-address {
-  /*padding-right 0.625rem;
-}*/
+.icon-address {
+fill: var(--color-grey2);
+}
 
 .icon-address:hover,
 .icon-address:focus {
