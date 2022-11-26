@@ -292,6 +292,7 @@ ul {
 .ourteam-div4:focus {
   background-color: #2196f3;
   border-radius: 50%;
+  fill: var(--color-white);
 }
 
 .ourteam-div5 {
