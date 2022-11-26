@@ -293,7 +293,7 @@ ul {
   background-color: #2196f3;
   border-radius: 50%;
   fill: var(--color-white);
-  color: var(--color-white)
+  color: var(--color-white);
 }
 
 .ourteam-div5 {
@@ -302,13 +302,11 @@ ul {
 }
 
 .ourteam-icon {
-  /* fill: var(--color-grey4);*/
-  fill: currentColor;
+  fill: var(--color-grey4);
 }
 
 .ourteam-icon:hover,
 .ourteam-icon:focus {
-  /*fill: var(--color-white);*/
   fill: currentColor;
 }
 
