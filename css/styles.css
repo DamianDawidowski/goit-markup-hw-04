@@ -3,7 +3,7 @@
   --color-grey2: #757575;
   --color-grey3: #2f303a;
   --color-grey4: #afb1b8;
-  --color-grey5: #ffffff1a; 
+  --color-grey5: #ffffff1a;
   --color-blue: #2196f3;
   --color-black: #212121;
   --color-black2: #0000001f;
@@ -290,20 +290,18 @@ ul {
   padding-top: 1.25rem;
 }
 
-.ourteam-div4:hover,
-.ourteam-div4:focus, 
-.ourteam-div4a:hover,
-.ourteam-div4a:focus 
-{
-  background-color: #2196f3;
+.footer-div4a {
+  background-color: var(--color-grey5);
   border-radius: 50%;
 }
 
-.footer-div4a {
-background-color: var(--color-grey5);
-  border-radius: 50%;  
+.ourteam-div4:hover,
+.ourteam-div4:focus,
+.footer-div4a:hover,
+.footer-div4a:focus {
+  background-color: #2196f3;
+  border-radius: 50%;
 }
-
 
 .ourteam-div5 {
   padding: 0.75rem;
@@ -317,14 +315,16 @@ background-color: var(--color-grey5);
   color: var(--color-white);
 }
 
-
 .ourteam-div5:hover,
-.ourteam-div5:focus {
+.ourteam-div5:focus,
+.ourteam-div5a:hover,
+.ourteam-div5a:focus {
   fill: var(--color-white);
   color: var(--color-white);
 }
 
-.ourteam-icon, .footer-icon {
+.ourteam-icon,
+.footer-icon {
   fill: currentColor;
 }
 
