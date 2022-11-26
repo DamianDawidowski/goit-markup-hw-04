@@ -365,6 +365,7 @@ ul {
 .div-icon {
   display: flex;
   align-items: center;
+  color: var(--color-grey2);
 }
 
 .address-icon {
