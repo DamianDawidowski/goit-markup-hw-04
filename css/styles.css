@@ -390,7 +390,7 @@ ul {
 }
 
 .icon-address {
-  fill: var(--color-grey2);
+  fill: currentColor;
 }
 
 .icon-address:hover,
@@ -404,6 +404,11 @@ ul {
   display: flex;
   align-items: center;
   fill: var(--color-grey2);
+}
+
+.div-icon:hover,
+.div-icon:focus {
+  color: var(--color-blue);
 }
 
 .address-icon {
