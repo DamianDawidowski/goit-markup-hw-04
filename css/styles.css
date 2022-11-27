@@ -399,13 +399,28 @@ ul {
 }
 
 .ourclients-div1 {
-  padding: 1.5625rem 4.0625rem 1.3125rem 4rem
+  padding: 1.5625rem 4.0625rem 1.3125rem 4rem;
 }
 
+.ourclients-div2 {
+  padding: 1.3125rem 4.0625rem 1.1875rem 4rem;
+}
 
+.ourclients-div3 {
+  padding: 1.5625rem 4.0625rem 1.3125rem 4rem;
+}
 
+.ourclients-div4 {
+  padding: 1.5625rem 4.0625rem 1.3125rem 4rem;
+}
 
+.ourclients-div5 {
+  padding: 1.5625rem 4.0625rem 1.3125rem 4rem;
+}
 
+.ourclients-div6 {
+  padding: 1.5625rem 4.0625rem 1.3125rem 4rem;
+}
 
 .footer-div {
   padding: 3.75rem 0;
