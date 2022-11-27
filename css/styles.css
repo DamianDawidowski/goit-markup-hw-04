@@ -408,6 +408,11 @@ border-radius: 4px;
 
 .ourclients-div1 {
   padding: 1.5625rem 4.0625rem 1.3125rem 4rem;
+  color: var(--color-grey4)
+}
+
+.ourclients-div1:hover, .ourclients-div1:focus {
+  color: var(--color-blue)
 }
 
 .ourclients-div2 {
