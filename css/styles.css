@@ -427,6 +427,7 @@ ul {
 .ourclients-border:hover,
 .ourclients-border:focus {
   color: var(--color-blue);
+  border: 1px solid var(--color-blue);
 }
 
 .ourclients-div2 {
