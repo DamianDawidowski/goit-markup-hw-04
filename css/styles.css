@@ -411,7 +411,7 @@ ul {
 }
 
 .ourclients-border {
-  color: var(--color-grey4);
+  color: var(--color-grey4)
 }
 
 .ourclients-border:hover,
