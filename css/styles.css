@@ -411,7 +411,7 @@ border-radius: 4px;
   color: var(--color-grey4)
 }
 
-.ourclients-div1:hover, .ourclients-div1:focus {
+.ourclients-border:hover, .ourclients-border:focus {
   color: var(--color-blue)
 }
 
