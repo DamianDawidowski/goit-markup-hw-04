@@ -289,16 +289,21 @@ ul {
   display: flex;
   padding: 1rem 2rem 1.125rem;
   gap: 0.625rem;
+  border-radius: 50%;
 }
 
 .footer-div3 {
   display: flex;
   padding-top: 1.25rem;
   gap: 0.625rem;
+  border-radius: 50%;
 }
 
 .footer-div4 {
   background-color: var(--color-grey5);
+}
+
+.ourteam-div4 {
   border-radius: 50%;
 }
 
@@ -307,7 +312,7 @@ ul {
 .footer-div4:hover,
 .footer-div4:focus {
   background-color: #2196f3;
-  border-radius: 50%;
+  transition: 0.3s;
 }
 
 .ourteam-div5 {
@@ -328,7 +333,7 @@ ul {
 .ourteam-div5:focus {
   fill: var(--color-white);
   color: var(--color-white);
-  transition: 1s;
+  transition: 0.3s;
 }
 
 .ourteam-icon,
