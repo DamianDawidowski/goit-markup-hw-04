@@ -185,6 +185,7 @@ ul {
 .buttons .button:hover {
   color: var(--color-white);
   background-color: var(--color-blue);
+  transition: 0.3s;
 }
 
 .filters {
@@ -351,6 +352,7 @@ ul {
 .footer-icon:hover,
 .footer-icon:focus {
   fill: currentColor;
+  transition: 0.3s;
 }
 
 .navigation {
@@ -493,6 +495,7 @@ ul {
 .address-grey:focus,
 .address-grey:hover {
   color: var(--color-blue);
+  transition: 0.3s;
 }
 
 .portfolio-li:hover,
@@ -514,6 +517,7 @@ ul {
 .icon-address:hover,
 .icon-address:focus {
   fill: currentColor;
+  transition: 0.3s;
 }
 
 .div-icon {
@@ -526,6 +530,7 @@ ul {
 .div-icon:hover,
 .div-icon:focus {
   color: var(--color-blue);
+  transition: 0.3s;
 }
 
 .address-icon {
@@ -536,6 +541,7 @@ ul {
 .address-icon:hover,
 .address-icon:focus {
   color: currentColor;
+  transition: 0.3s;
 }
 
 .placeholder-icon {
