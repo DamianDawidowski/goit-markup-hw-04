@@ -325,11 +325,10 @@ ul {
 }
 
 .ourteam-div5:hover,
-.ourteam-div5:focus,
-.ourteam-div5a:hover,
-.ourteam-div5a:focus {
+.ourteam-div5:focus {
   fill: var(--color-white);
   color: var(--color-white);
+  transition: 1s;
 }
 
 .ourteam-icon,
@@ -493,6 +492,7 @@ ul {
 .portfolio-li:focus {
   box-shadow: 0px 1px 1px #0000001f, 0px 4px 4px #0000000f, 1px 4px 6px #00000029;
   cursor: pointer;
+  transition: 0.5s;
 }
 
 .portfolio-img {
