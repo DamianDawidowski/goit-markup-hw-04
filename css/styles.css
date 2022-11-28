@@ -288,22 +288,24 @@ ul {
 .outeam-div3 {
   display: flex;
   padding: 1rem 2rem 1.125rem;
+  gap: 0.625rem;
 }
 
-.footer-div3a {
+.footer-div3 {
   display: flex;
   padding-top: 1.25rem;
+  gap: 0.625rem;
 }
 
-.footer-div4a {
+.footer-div4 {
   background-color: var(--color-grey5);
   border-radius: 50%;
 }
 
 .ourteam-div4:hover,
 .ourteam-div4:focus,
-.footer-div4a:hover,
-.footer-div4a:focus {
+.footer-div4:hover,
+.footer-div4:focus {
   background-color: #2196f3;
   border-radius: 50%;
 }
@@ -315,7 +317,7 @@ ul {
   cursor: pointer;
 }
 
-.footer-div5a {
+.footer-div5 {
   padding: 0.75rem;
   max-height: 2.75rem;
   color: var(--color-white);
@@ -417,7 +419,7 @@ ul {
 .ourclients-border {
   border: 1px solid var(--color-grey4);
   border-radius: 4px;
-  color: var(--color-grey4)
+  color: var(--color-grey4);
 }
 
 .ourclients-div1 {
